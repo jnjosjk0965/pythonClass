@@ -1,0 +1,2 @@
+def printAI():
+    print("AI")
