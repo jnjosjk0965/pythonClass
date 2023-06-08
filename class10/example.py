@@ -17,6 +17,6 @@ import mymodule as my
 print("-="*25)
 my.printName("재석")
 
-#실행한 곳에서만 __name__에 __main__이 들어가고 아니면 파일명이 들어감
+## 실행한 곳에서만 __name__에 __main__이 들어가고 아니면 파일명이 들어감
 print(__name__)
 
