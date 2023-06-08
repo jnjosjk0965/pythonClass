@@ -9,3 +9,4 @@ list3 = [100,200,300,400,500]
 
 mapped = list(map(lambda l2,l3:l2+l3,list2,list3))
 print(mapped)
+
